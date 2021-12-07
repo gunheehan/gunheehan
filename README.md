@@ -21,6 +21,10 @@
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
 [![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)]()
 [![Visual Studio Badge](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)]()
+[![Adobe Pro Badge](https://img.shields.io/badge/AdobePro-9999FF?style=flat-square&logo=AdobePro&logoColor=white)]()
+[![Mysql Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)]()
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
+
 
 
 
