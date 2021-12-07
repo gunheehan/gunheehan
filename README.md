@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunheehan-counter&count_bg=%2361943A&title_bg=%23FF0000&icon=unity.svg&icon_color=%23FFFFFF&title=C%23&edge_flat=false)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunheehan)](https://github.com/gunheehan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunheehan)](https://github.com/gunheehan/github-readme-stats)()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunheehan)](https://github.com/gunheehan/github-readme-stats)
