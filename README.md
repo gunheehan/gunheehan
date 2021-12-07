@@ -19,8 +19,7 @@
 
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
-[Unity Badge](https://img.shields.io/badge/-Unity-#000000?style=flat-square&logo=Unity&logoColor=white)
-[![Gmail Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white&link=mailto:http://www.unitysquare.co.kr)](mailto:http://www.unitysquare.co.kr)
+
 
 
 
