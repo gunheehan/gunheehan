@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunheehan&count_bg=%235E9236&title_bg=%23FF0000&icon=&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjstmsla@gmail.com)](mailto:rjstmsla@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gksrjsgml13@naver.com)](mailto:gksrjsgml13@naver.com)
-[![Naver Badge](http://img.shields.io/badge/-NAVER-brightgreen?style=flat-square&logo=FF5722&link=gksrjsgml13@naver.com)](mailto:gksrjsgml13@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shine_gunx/)](https://www.instagram.com/shine_gunx/) 
 
 <br>
@@ -19,7 +18,7 @@
 - VR/AR/MR UI
 
 ## Skill
-[![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white)]()
+[![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
 [Unity Badge](https://img.shields.io/badge/-Unity-#000000?style=flat-square&logo=Unity&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white&link=mailto:http://www.unitysquare.co.kr)](mailto:http://www.unitysquare.co.kr)
 
