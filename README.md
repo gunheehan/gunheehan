@@ -16,6 +16,7 @@
 
 ## Interest 👀
 - VR/AR/MR UI
+- VR/AR/MR UX
 
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
