@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## chick programmer
 <!--
 **gunheehan/gunheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[! [ps://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2361943A&title_bg=%23CB00FF&icon=unity.svg&icon_color=%23FFFFFF&title=C%23&edge_flat=false)] (https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunheehan)](https://github.com/gunheehan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunheehan)](https://github.com/gunheehan/github-readme-stats)
