@@ -20,7 +20,7 @@
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white)]()
 [![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white&link=mailto:rjstmsla@gmail.com)](mailto:rjstmsla@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
+[![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white&link=mailto:gksrjsgml13@naver.com)](mailto:gksrjsgml13@naver.com)
 
 
 
