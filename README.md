@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## chick programmer
 
-#Who Am I
+Who Am I
 - 🌱 I’m currently learning C#, Unity programming and Statistics.
 - 
 <!--
