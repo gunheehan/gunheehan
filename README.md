@@ -19,7 +19,7 @@
 
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
-
+[![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)]()
 
 
 
