@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## chick programmer
 
-Who Am I
--- 🌱 I’m currently learning C#, Unity programming and Statistics.
+#Who Am I
+- 🌱 I’m currently learning C#, Unity programming and Statistics.
 - 
 <!--
 **gunheehan/gunheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
