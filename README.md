@@ -20,6 +20,8 @@
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white)]()
 [![Unity Badge](https://img.shields.io/badge/Unity-#000000?style=flat-square&logo=Unity&logoColor=white&link=mailto:rjstmsla@gmail.com)](mailto:rjstmsla@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
+
 
 
 **gunheehan/gunheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
