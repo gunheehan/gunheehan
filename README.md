@@ -8,12 +8,14 @@
 <br>
 
 ## Work experience 🤹‍♀️
-- (00.00 - 00.00) 경력 1
-- (19.00 - 19.00) 경력 2
+- (1996.03) 탄생
+- (2015.03 - 2019.02) 상지대학교 컴퓨터공학과
+- (2019.03 - 2021.06) 대한민국 육군 장교 근무
+- (2021.07 ~ 2022.02) 방송정보국제 교육원 VR/AR 콘텐츠 제작전문가 3기 과정(수료예정)
 
 ## Interest 👀
-- 흥미1
-- 흥미2
+- VR/AR/MR UI
+- 
 [출처] [Github] 깃허브에 자기소개 readme.md 내 스타일로 꾸미기 : Mark down|작성자 주힝
 <!--
 **gunheehan/gunheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
