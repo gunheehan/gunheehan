@@ -6,6 +6,7 @@
 http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=gksrjsgml13@naver.com)
 [![Naver Badge]http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=gksrjsgml13@naver.com)](mailto:gksrjsgml13@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shine_gunx/)](https://www.instagram.com/shine_gunx/) 
+http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)
 
 <br>
 
