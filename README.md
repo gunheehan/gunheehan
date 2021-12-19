@@ -20,7 +20,7 @@
 
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
-[![C# Badge](https://img.shields.io/badge/C#-239120?style=flat-square&logo=Unity&logoColor=white)]()
+[![C# Badge](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Unity&logoColor=white)]()
 [![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)]()
 [![Visual Studio Badge](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)]()
 [![Adobe Premiere Pro Badge](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)]()
