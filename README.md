@@ -20,7 +20,7 @@
 - Meta Platform
 
 ## Skill
-[![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
-[![C# Badge](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Unity&logoColor=white)]()
-![Rider Badge](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-[![Adobe Premiere Pro Badge](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)]()
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
