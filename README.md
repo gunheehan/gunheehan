@@ -22,5 +22,5 @@
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
 [![C# Badge](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Unity&logoColor=white)]()
-[![Rider Badge](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)]()
+![Rider Badge](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 [![Adobe Premiere Pro Badge](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)]()
