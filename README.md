@@ -11,16 +11,16 @@
 ## Work experience 🤹‍♀️
 - (2012.03 - 2015.02) 무원고등학교(문과)
 - (2015.03 - 2019.02) 상지대학교 컴퓨터공학과
-- (2019.03 - 2021.06) 대한민국 육군 장교 근무
 - (2021.07 - 2022.02) 방송정보국제 교육원 VR/AR 콘텐츠 제작전문가 3기 수료
+- (2022.03 ~) Application Developer
 
 ## Interest 👀
 - VR/AR/MR UI
 - VR/AR/MR UX
+- Meta Platform
 
 ## Skill
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
 [![C# Badge](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=Unity&logoColor=white)]()
-[![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)]()
-[![Visual Studio Badge](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)]()
+[![Rider Badge](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)]()
 [![Adobe Premiere Pro Badge](https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white)]()
