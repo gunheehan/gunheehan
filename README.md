@@ -15,9 +15,9 @@
 - (2022.03 ~) Application Developer
 
 ## Interest 👀
-- VR/AR/MR UI
-- VR/AR/MR UX
-- Meta Platform
+- UI/UX
+- Cross-Platform
+- SDK
 
 ## Skill
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
